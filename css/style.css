@@ -57,7 +57,7 @@ img {
 }
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("/images/home/showcase.jpg") no-repeat center center/cover;
+    url("/images/home/showcase.jpg) no-repeat center center/cover;
   height: 100vh;
 }
 .hero .content {
